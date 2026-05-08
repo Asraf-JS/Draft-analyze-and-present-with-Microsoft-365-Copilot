@@ -1,4 +1,5 @@
 ---
+layout: page
 lab:
   title: Handle client communications efficiently
   module: Communicate with Copilot in Outlook

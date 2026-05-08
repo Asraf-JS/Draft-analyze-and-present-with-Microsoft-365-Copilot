@@ -1,23 +1,29 @@
 title: "Draft, Analyze, and Present with Microsoft 365 Copilot"
-author: "[Your Name] — Trainocate / TED Learning"
-github_repo: "https://github.com/[your-username]/[your-repo-name]"
+author: "Asraf-JS — Trainocate / TED Learning"
+github_repo: "https://github.com/Asraf-JS/Draft-analyze-and-present-with-Microsoft-365-Copilot"
 
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
+markdown: kramdown
+encoding: utf-8
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+  input: GFM
+  html_to_native: true
+
+sass:
+  style: :compressed
 
 defaults:
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: "page"
+  - scope:
+      path: "index.md"
+    values:
+      layout: "home"
 
-plugins:
-  - jekyll-sitemap
-
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    disable: true
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

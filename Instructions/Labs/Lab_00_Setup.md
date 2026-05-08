@@ -1,4 +1,5 @@
 ---
+layout: page
 lab:
   title: Set up your environment
   module: Set up your environment

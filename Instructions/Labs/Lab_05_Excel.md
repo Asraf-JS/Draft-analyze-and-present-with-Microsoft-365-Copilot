@@ -1,4 +1,5 @@
 ---
+layout: page
 lab:
   title: Analyse data and surface insights
   module: Analyse with Copilot in Excel

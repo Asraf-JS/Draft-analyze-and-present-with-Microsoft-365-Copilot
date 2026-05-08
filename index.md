@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Draft, Analyze, and Present with Microsoft 365 Copilot
+layout: home
+title: "Draft, Analyze, and Present with Microsoft 365 Copilot"
 ---
 
 # Draft, Analyze, and Present with Microsoft 365 Copilot

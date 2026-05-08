@@ -1,4 +1,5 @@
 ---
+layout: page
 lab:
   title: Draft and refine a financial report
   module: Draft with Copilot in Word

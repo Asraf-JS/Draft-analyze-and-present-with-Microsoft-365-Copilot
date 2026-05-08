@@ -1,4 +1,5 @@
 ---
+layout: page
 lab:
   title: Organise and share research findings
   module: Organise with Copilot Pages

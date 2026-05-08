@@ -1,4 +1,5 @@
 ---
+layout: page
 lab:
   title: Ace your day with Copilot Chat
   module: Get started with Microsoft 365 Copilot Chat

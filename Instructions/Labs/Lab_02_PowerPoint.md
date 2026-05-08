@@ -1,4 +1,5 @@
 ---
+layout: page
 lab:
   title: Build a client presentation from scratch
   module: Present with Copilot in PowerPoint

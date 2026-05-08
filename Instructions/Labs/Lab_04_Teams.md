@@ -1,4 +1,5 @@
 ---
+layout: page
 lab:
   title: Manage meetings and collaboration
   module: Collaborate with Copilot in Teams
