@@ -1,0 +1,39 @@
+<nav class="col-md-3 col-lg-2 d-none d-md-block sidebar">
+  <div class="sidebar-sticky">
+
+    {% assign labs = site.pages | where_exp:"page", "page.url contains '/Instructions/Labs'" | sort: "url" %}
+    {% if labs.size > 0 %}
+    <h6 class="sidebar-heading">Labs</h6>
+    <ul class="nav flex-column">
+      {% for lab in labs %}
+        {% if lab.lab.title %}
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == lab.url %}active{% endif %}"
+             href="{{ lab.url | relative_url }}">
+            {{ lab.lab.title }}
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+    {% assign demos = site.pages | where_exp:"page", "page.url contains '/Instructions/Demos'" | sort: "url" %}
+    {% if demos.size > 0 %}
+    <h6 class="sidebar-heading mt-3">Demos</h6>
+    <ul class="nav flex-column">
+      {% for demo in demos %}
+        {% if demo.demo.title %}
+        <li class="nav-item">
+          <a class="nav-link {% if page.url == demo.url %}active{% endif %}"
+             href="{{ demo.url | relative_url }}">
+            {{ demo.demo.title }}
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+
+  </div>
+</nav>

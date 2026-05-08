@@ -1,0 +1,267 @@
+---
+---
+
+/* ============================================================
+   THEME VARIABLES — edit these to rebrand the site
+   ============================================================ */
+
+$brand-primary:     #0067b8;   /* Header bg, active links, step numbers  */
+$brand-dark:        #004f8c;   /* Hover states                           */
+$brand-light:       #dbeaff;   /* Active sidebar item background         */
+
+$sidebar-bg:        #f8f8f8;
+$sidebar-border:    #e5e5e5;
+$sidebar-text:      #333333;
+$sidebar-heading:   #999999;
+
+$header-height:     48px;
+
+$body-font:         -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$mono-font:         "Cascadia Code", Consolas, "Courier New", monospace;
+
+$note-bg:           #f0f6ff;
+$note-border:       #0067b8;
+
+$content-max:       860px;
+
+
+/* ============================================================
+   GLOBAL
+   ============================================================ */
+
+body {
+  font-family: $body-font;
+  font-size: 15px;
+  color: #222;
+  background: #fff;
+}
+
+a {
+  color: $brand-primary;
+  &:hover { color: $brand-dark; }
+}
+
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+
+.site-header {
+  background-color: $brand-primary;
+  height: $header-height;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+
+  .navbar {
+    padding: 0 1rem;
+    height: 100%;
+  }
+
+  .site-title {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.01em;
+    &:hover { color: rgba(255,255,255,0.85); text-decoration: none; }
+  }
+}
+
+
+/* ============================================================
+   SIDEBAR
+   ============================================================ */
+
+.sidebar {
+  background: $sidebar-bg;
+  border-right: 1px solid $sidebar-border;
+  min-height: calc(100vh - #{$header-height});
+  padding: 1.25rem 0;
+  position: sticky;
+  top: $header-height;
+  height: calc(100vh - #{$header-height});
+  overflow-y: auto;
+
+  .sidebar-heading {
+    font-size: 11px;
+    font-weight: 600;
+    color: $sidebar-heading;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    padding: 0 1rem 6px;
+    margin: 0;
+  }
+
+  .nav-link {
+    font-size: 13px;
+    color: $sidebar-text;
+    padding: 5px 1rem;
+    line-height: 1.4;
+    border-left: 3px solid transparent;
+
+    &:hover {
+      background: darken($sidebar-bg, 4%);
+      text-decoration: none;
+    }
+
+    &.active {
+      background: $brand-light;
+      color: $brand-primary;
+      border-left-color: $brand-primary;
+      font-weight: 500;
+    }
+  }
+}
+
+
+/* ============================================================
+   MAIN CONTENT
+   ============================================================ */
+
+.main-content {
+  padding: 2rem 2.5rem;
+
+  .content-inner {
+    max-width: $content-max;
+  }
+
+  h1 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 0.25rem;
+  }
+
+  h2 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #000;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.25rem;
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #333;
+    margin-top: 1.25rem;
+  }
+
+  p { line-height: 1.65; margin-bottom: 0.75rem; }
+
+  ul, ol {
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+    li { margin-bottom: 0.3rem; line-height: 1.55; }
+  }
+
+  ol > li::marker {
+    color: $brand-primary;
+    font-weight: 600;
+  }
+
+  code {
+    font-family: $mono-font;
+    font-size: 13px;
+    background: #f3f3f3;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 1px 5px;
+    color: #333;
+  }
+
+  pre {
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 1rem;
+    overflow-x: auto;
+    margin-bottom: 1rem;
+
+    code {
+      background: none;
+      border: none;
+      padding: 0;
+      font-size: 13px;
+    }
+  }
+
+  blockquote {
+    background: $note-bg;
+    border-left: 4px solid $note-border;
+    border-radius: 0 4px 4px 0;
+    padding: 0.6rem 1rem;
+    margin: 0.75rem 0;
+    color: #333;
+
+    p {
+      margin: 0;
+      font-size: 13.5px;
+      line-height: 1.5;
+    }
+
+    strong { color: $brand-primary; }
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1rem;
+    font-size: 14px;
+
+    th {
+      background: #f0f0f0;
+      font-weight: 600;
+      text-align: left;
+      padding: 0.5rem 0.75rem;
+      border-bottom: 2px solid #ddd;
+    }
+
+    td {
+      padding: 0.45rem 0.75rem;
+      border-bottom: 1px solid #eee;
+    }
+
+    tr:last-child td { border-bottom: none; }
+  }
+
+  img {
+    max-width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin: 0.5rem 0;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid #e5e5e5;
+    margin: 1.5rem 0;
+  }
+}
+
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+
+.site-footer {
+  background: #f2f2f2;
+  border-top: 1px solid #e0e0e0;
+  padding: 0.75rem 1.5rem;
+  font-size: 12px;
+  color: #666;
+
+  a { color: $brand-primary; }
+}
+
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+
+@media (max-width: 767px) {
+  .main-content { padding: 1.25rem 1rem; }
+  .site-header .site-title { font-size: 13px; }
+}
