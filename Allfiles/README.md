@@ -1,10 +1,14 @@
 # Allfiles
 
-Sample files used in the labs. Save all files to your **OneDrive > Documents** folder before starting.
+Sample files used in the labs. Save all files to **OneDrive > Documents** before starting the relevant lab.
 
 | File | Used in |
 |------|---------|
-| Lab_02_Product_Brief.docx | Lab 02 — PowerPoint |
-| Lab_05_Branch_Performance_Q4.xlsx | Lab 05 — Excel |
+| Lab_07_Feedback_Results.xlsx | Lab 07 — Excel (Guided Exercise) |
+| Lab_07_Branch_Performance_Q4.xlsx | Lab 07 — Excel (Independent Exercise) |
 
-> Files for Labs 01, 03, 04, 06, and 07 do not require downloads — all content is generated during the lab using Copilot prompts.
+> Files for Labs 01 to 06 and Lab 08 do not require downloads — all content is generated or accessed through Copilot during the lab.
+>
+> Your trainer will also set up the following in the training environment before the session:
+> - Sample email threads in Outlook (Labs 04 and 05)
+> - A Teams meeting recording with transcript (Lab 05)

@@ -5,7 +5,9 @@ title: "Draft, Analyze, and Present with Microsoft 365 Copilot"
 
 # Draft, Analyze, and Present with Microsoft 365 Copilot
 
-These hands-on labs use **Mayfield Bank Berhad** — a fictional Malaysian commercial bank — as the scenario throughout. Each lab focuses on one Microsoft 365 app and a realistic banking task.
+These hands-on labs use **Mayfield Bank Berhad** — a fictional Malaysian commercial bank — as the scenario throughout. Each lab follows a connected story: an HR team at Mayfield Bank building and rolling out an AI Usage Guideline from research all the way through to monitoring.
+
+Each lab has two parts: a **Guided Exercise** with full step-by-step instructions, and an **Independent Exercise** with a lighter scenario for you to apply what you have learned on your own.
 
 > **Note:** To complete these labs, participants must have an active Microsoft 365 Copilot licence. See Lab 00 for setup details.
 
@@ -14,10 +16,11 @@ These hands-on labs use **Mayfield Bank Berhad** — a fictional Malaysian comme
 | Lab | Title | App |
 | --- | ----- | --- |
 | [Lab 00](Instructions/Labs/Lab_00_Setup.html) | Set up your environment | — |
-| [Lab 01](Instructions/Labs/Lab_01_Copilot_Chat.html) | Ace your day with Copilot Chat | Microsoft 365 Copilot Chat |
-| [Lab 02](Instructions/Labs/Lab_02_PowerPoint.html) | Build a client presentation from scratch | Copilot in PowerPoint |
-| [Lab 03](Instructions/Labs/Lab_03_Word.html) | Draft and refine a financial report | Copilot in Word |
-| [Lab 04](Instructions/Labs/Lab_04_Teams.html) | Manage meetings and collaboration | Copilot in Teams |
-| [Lab 05](Instructions/Labs/Lab_05_Excel.html) | Analyse data and surface insights | Copilot in Excel |
-| [Lab 06](Instructions/Labs/Lab_06_Outlook.html) | Handle client communications efficiently | Copilot in Outlook |
-| [Lab 07](Instructions/Labs/Lab_07_Copilot_Pages.html) | Organise and share research findings | Copilot Pages |
+| [Lab 01](Instructions/Labs/Lab_01_Copilot_Chat_Web.html) | Research with Copilot Chat | Copilot Chat (Web grounding) |
+| [Lab 02](Instructions/Labs/Lab_02_Copilot_Pages.html) | Organise research with Copilot Pages | Copilot Pages |
+| [Lab 03](Instructions/Labs/Lab_03_Word.html) | Draft and polish the guideline | Copilot in Word |
+| [Lab 04](Instructions/Labs/Lab_04_Outlook.html) | Request approval with Outlook | Copilot in Outlook |
+| [Lab 05](Instructions/Labs/Lab_05_Teams.html) | Manage meetings with Teams | Copilot in Teams |
+| [Lab 06](Instructions/Labs/Lab_06_Forms.html) | Collect feedback with Forms | Copilot in Forms |
+| [Lab 07](Instructions/Labs/Lab_07_Excel.html) | Analyse feedback with Excel | Copilot in Excel |
+| [Lab 08](Instructions/Labs/Lab_08_Copilot_Chat_Work.html) | Monitor with Work grounding and Scheduled Prompts | Copilot Chat (Work grounding) |
