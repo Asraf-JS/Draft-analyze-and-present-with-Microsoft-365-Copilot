@@ -40,6 +40,8 @@ In this lab, you learn how to:
 
 1. In the upper-right area of the page, select **Create**, then select **Document**.
 
+    ![Create document from Copilot Page](../../assets/images/lab03_create_document_from_page_wide.png)
+
 1. Wait for Copilot to prepare the draft, then select **Open Word**.
 
 1. Review the document structure. Check the title, headings, and section order.
@@ -51,6 +53,8 @@ In this lab, you learn how to:
 ### Task 2: Draft the guideline structure
 
 1. In Word, open the **Copilot** panel from the Home ribbon or the Copilot button in the document margin.
+
+    ![Copilot button in Word](../../assets/images/lab03_word_copilot_button_wide.png)
 
 1. Type the following prompt:
 

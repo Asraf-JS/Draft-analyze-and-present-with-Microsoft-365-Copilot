@@ -46,6 +46,8 @@ In this lab, you learn how to:
 
 1. Below the response, look for the **Edit in Pages** icon (a pencil or page icon) or an **Add to Page** button. Select it to create a new Copilot Page from this response.
 
+    ![Edit in Pages button](../../assets/images/lab02_edit_in_pages_wide.png)
+
     > ***Note:** The exact label may vary depending on your tenant version. If you cannot find the button, look for a three-dot menu on the response or ask your trainer.*
 
 ---
@@ -72,6 +74,8 @@ In this lab, you learn how to:
 
 1. Open the Copilot Page. It should now contain three sections of research content.
 
+    ![New Copilot Page](../../assets/images/lab02_new_page_quick_create_wide.png)
+
 1. Add a title and header at the top:
 
     **AI Usage Guideline — Research Brief**
@@ -93,6 +97,8 @@ In this lab, you learn how to:
 ### Task 4: Share the page
 
 1. Select **Share** in the top-right corner of the page.
+
+    ![Share Copilot Page](../../assets/images/lab02_share_page_wide.png)
 
 1. Enter your trainer's email address (or a colleague's, as directed).
 

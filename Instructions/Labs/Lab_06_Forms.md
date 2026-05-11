@@ -39,6 +39,8 @@ In this lab, you learn how to:
 
 1. Select **New Form**.
 
+    ![New Form in Microsoft Forms](../../assets/images/lab06_forms_new_form_wide.png)
+
 1. If Copilot appears in the interface, select it and describe what you need. If not, use the manual approach with Copilot Chat to generate questions first (see Task 2).
 
 1. Give the form a title:
@@ -52,6 +54,8 @@ In this lab, you learn how to:
 ### Task 2: Generate questions with Copilot
 
 1. If Copilot is available directly in Forms, type:
+
+    ![Copilot agent in Forms](../../assets/images/lab06_forms_agent_try_it_now_wide.png)
 
     ```
     Create an employee feedback form for an AI Usage Guideline briefing at a Malaysian bank. Include questions on clarity of the guideline, confidence in applying the rules, concern areas, examples that need more explanation, and support needed. Use no more than 10 questions. Include a mix of rating scale, multiple choice, and open text questions.

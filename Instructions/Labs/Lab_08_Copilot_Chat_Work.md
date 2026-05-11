@@ -40,6 +40,8 @@ In this lab, you learn how to:
 
 1. Look for the **Work** and **Web** toggle near the top of the interface. Select **Work**.
 
+    ![Copilot Chat Work toggle](../../assets/images/lab08_copilot_work_toggle_wide.png)
+
 1. Note the difference from Web grounding: Work mode draws from your internal Microsoft 365 content — emails, Teams messages, meeting notes, SharePoint files, and calendar entries — based on what you have permission to access.
 
     > ***Note:** Copilot can only surface content you already have access to. It does not bypass permissions. If a colleague has not shared a file with you, Copilot cannot reference it.*
@@ -92,6 +94,8 @@ Before scheduling a prompt, it must be specific enough to produce a reliable out
 1. Hover over the prompt response in Copilot Chat.
 
 1. Look for a **Schedule this prompt** option or a clock icon near the response.
+
+    ![Schedule this prompt](../../assets/images/lab08_schedule_this_prompt_wide.png)
 
 1. If the scheduling option is available in your tenant:
     - Set the frequency to **Weekly**

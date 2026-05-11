@@ -58,6 +58,10 @@ These labs use a simple prompt pattern. You do not need to use every element eve
 
 1. Look for the shield or protection indicator that confirms you are in the work-protected experience.
 
+    ![Copilot Chat Web toggle](../../assets/images/lab01_copilot_web_toggle_wide.png)
+
+    ![Copilot protection badge](../../assets/images/lab01_copilot_protection_badge_wide.png)
+
     > ***Note:** If the Work/Web toggle is not visible, check your licence and tenant settings with your trainer. Features may differ depending on whether you have Copilot Chat only or the full Microsoft 365 Copilot add-on licence.*
 
 ---

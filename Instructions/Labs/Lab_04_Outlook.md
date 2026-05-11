@@ -41,6 +41,8 @@ In this lab, you learn how to:
 
 1. In the compose window, select the **Copilot** icon or **Draft with Copilot**.
 
+    ![Draft with Copilot in Outlook](../../assets/images/lab04_outlook_copilot_help_me_write_wide.png)
+
 1. Type the following prompt:
 
     ```
