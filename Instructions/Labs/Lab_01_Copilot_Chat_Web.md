@@ -124,6 +124,44 @@ You are now familiar with the interface. In the next task you will use these sam
 
 ---
 
+### Task 4: Use Prompt Coach to improve a research prompt
+
+Copilot Chat includes a built-in agent called **Prompt Coach** that analyses your prompts and suggests improvements. In this task you will use it to refine a prompt before running it — a habit worth building before any important research.
+
+1. In the left sidebar, select **All agents** to open the Agent Store.
+
+    ![Copilot Agent Store showing available agents including Prompt Coach](../../assets/images/lab01_agent_store_wide.jpg)
+
+1. Select the **Prompt Coach** tile. When the detail card appears, select **Open**.
+
+    ![Prompt Coach detail card in the Agent Store with the Open button highlighted](../../assets/images/lab01_prompt_coach_open_wide.jpg)
+
+1. Prompt Coach opens with three built-in starter actions: **Prompt Generation**, **Analyze Prompt**, and **Prompt Compliance**. You can use these as shortcuts, or simply type your own request directly into the message box.
+
+    ![Prompt Coach interface showing the three starter actions](../../assets/images/lab01_prompt_coach_starters_wide.jpg)
+
+1. Type the following into the message box and press **Enter**:
+
+    ```
+    I am doing a research on how organisations are using AI in their workplace. I would like you to search the internet for S&P 500 companies and how they are adopting AI in their workplace and what policies they are applying to their organisation. After that I want you to come up with a first draft for my organisation. Ask me any question for clarification.
+    ```
+
+    ![Full multi-part prompt typed into Prompt Coach, ready to send](../../assets/images/lab01_prompt_coach_prompt_wide.jpg)
+
+    > ***Note:** Notice this prompt does three things at once: it asks for research, requests a draft, and invites follow-up questions. Prompt Coach is well suited to handling multi-step requests like this.*
+
+1. Wait for Prompt Coach to respond. It will search the web, pull in examples from real organisations, and generate a structured first draft. Scroll through the response — you will see a research table with company examples and inline citations, followed by numbered policy sections.
+
+    ![Prompt Coach response showing an S&P 500 AI adoption research table with inline citations](../../assets/images/lab01_prompt_coach_output_wide.jpg)
+
+1. Scroll to the end of the response. Prompt Coach finishes with a **bonus prompt** — a ready-to-use template you can copy and paste into Copilot in Word to refine the draft further with your organisation's specific context.
+
+    ![Prompt Coach bonus section showing a copy-paste ready prompt template for refining the policy draft](../../assets/images/lab01_prompt_coach_bonus_wide.jpg)
+
+    > ***Note:** Copy this bonus prompt somewhere safe — you will be able to use it in Lab 03 when you open the draft in Word.*
+
+---
+
 ### Prompt practice
 
 | Weak prompt | Better prompt | Why the better prompt works |
