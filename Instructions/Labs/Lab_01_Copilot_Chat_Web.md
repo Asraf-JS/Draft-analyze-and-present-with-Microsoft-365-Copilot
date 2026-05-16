@@ -147,12 +147,12 @@ Copilot Chat includes a built-in agent called **Prompt Coach** that analyses you
 1. Type the following into the message box and press **Enter**:
 
     ```
-    I am doing a research on how organisations are using AI in their workplace. I would like you to search the internet for S&P 500 companies and how they are adopting AI in their workplace and what policies they are applying to their organisation. After that I want you to come up with a first draft for my organisation. Ask me any question for clarification.
+    I am an HR Officer at a Malaysian commercial bank. I need to create an internal AI Usage Guideline for our staff. Can you search the internet to find out how large organisations handle workplace AI policies — especially around employee data, confidential information, human decision-making, and training requirements? After the research, help me come up with a first draft that suits a Malaysian banking environment. Ask me any clarifying questions you need.
     ```
 
     ![Full multi-part prompt typed into Prompt Coach, ready to send](../../assets/images/lab01_prompt_coach_prompt_wide.jpg)
 
-    > ***Note:** Notice this prompt does three things at once: it asks for research, requests a draft, and invites follow-up questions. Prompt Coach is well suited to handling multi-step requests like this.*
+    > ***Note:** Notice this prompt does three things at once: it sets the context, asks for research, and requests a draft. Prompt Coach is well suited to handling multi-step requests like this — it will search the web, pull in real-world examples, and produce a structured first draft.*
 
 1. Wait for Prompt Coach to respond. It will search the web, pull in examples from real organisations, and generate a structured first draft. Scroll through the response — you will see a research table with company examples and inline citations, followed by numbered policy sections.
 
@@ -162,7 +162,7 @@ Copilot Chat includes a built-in agent called **Prompt Coach** that analyses you
 
     ![Prompt Coach bonus section showing a copy-paste ready prompt template for refining the policy draft](../../assets/images/lab01_prompt_coach_bonus_wide.jpg)
 
-    > ***Note:** Copy this bonus prompt somewhere safe — you will be able to use it in Lab 03 when you open the draft in Word.*
+    > ***Note:** Copy this bonus prompt somewhere safe — you will use it at the start of Lab 02 to generate the full AI Usage Guideline draft in Copilot Chat before opening it in Pages.*
 
 ---
 

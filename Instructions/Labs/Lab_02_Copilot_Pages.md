@@ -1,32 +1,32 @@
 ---
 layout: page
 lab:
-  title: Organise research with Copilot Pages
+  title: Draft and organise with Copilot Pages
   module: Organise and collaborate with Copilot Pages
-  description: In this lab, you will move Copilot Chat research into a Copilot Page, organise and edit the content, and share it with a colleague — then apply the same skills to a strategy research scenario.
+  description: In this lab, you will use a structured prompt to generate a draft AI Usage Guideline in Copilot Chat, move it into Copilot Pages, refine it using inline Copilot, and prepare it for Word — then apply the same skills to a different Mayfield Bank scenario.
   duration: 45 minutes
   level: 100
   islab: true
   primarytopics:
     - Copilot Pages
-    - Collaborative editing
-    - Research organisation
-    - Sharing and co-authoring
+    - Document drafting
+    - Inline Copilot editing
+    - Export to Word
 ---
 
-# Lab 02 — Organise research with Copilot Pages
+# Lab 02 — Draft and organise with Copilot Pages
 
 ## Scenario
 
-You are still the **HR Officer at Mayfield Bank Berhad**. You have completed your research in Lab 01 and now need to organise the findings into a clean, shareable document that your team can review and build on before you start drafting the formal guideline. You will use Copilot Pages to compile, structure, and share the research.
+You are still the **HR Officer at Mayfield Bank Berhad**. Your research from Lab 01 is complete, and you have a clear picture of what the AI Usage Guideline needs to cover. Now you will use a structured prompt to generate a full draft of the guideline in Copilot Chat, move it into **Copilot Pages** to refine and organise it, then prepare it for polishing in Word.
 
 In this lab, you learn how to:
 
-- Send a Copilot Chat response to a Copilot Page.
-- Add multiple research outputs to the same page.
-- Edit and restructure content directly on the page.
-- Add your own notes alongside Copilot-generated content.
-- Share the page with a colleague for collaboration.
+- Use a structured prompt to generate a complete policy draft in Copilot Chat.
+- Open a Copilot Chat response directly in Copilot Pages.
+- Edit and refine content using inline Copilot within Pages.
+- Add sections and reorganise using the chat panel alongside Pages.
+- Export the finished page to Word for final polishing.
 
 **This lab should take approximately 45 minutes.**
 
@@ -34,83 +34,117 @@ In this lab, you learn how to:
 
 ## Part A — Guided Exercise
 
-### Task 1: Send research to a Copilot Page
+### Task 1: Generate the draft guideline in Copilot Chat
 
-1. Open **Copilot Chat** at [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat). Make sure you are on **Web** grounding.
+In Lab 01, you used Prompt Coach to generate a structured, improved prompt. In this task you will run that prompt — adapted for Mayfield Bank — to produce a complete first draft of the AI Usage Guideline.
 
-1. If your Lab 01 research is still visible in the chat thread, scroll to the response containing your 5-practice summary. If not, run this prompt again:
+1. Open Copilot Chat at [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and start a **New chat**.
+
+1. Confirm that **Web** grounding is selected (globe icon).
+
+1. Click into the message box and type the following prompt, then press **Enter**:
 
     ```
-    Summarise the 5 most important AI usage guideline practices for a Malaysian bank's HR team. Return as a numbered list with a one-sentence explanation for each.
+    You are a senior enterprise policy analyst and Responsible AI advisor.
+
+    GOAL
+    Draft a clear, practical, and enforceable "AI Use in the Workplace Policy" for Mayfield Bank Berhad, a commercial bank in Malaysia that handles:
+    - Customer personal data
+    - Financial data
+    - Health data
+    - Proprietary source code
+    - Internal audit and risk materials
+
+    The policy must enable productivity and innovation while strongly protecting confidentiality, regulatory compliance, and organisational reputation.
+
+    CONTEXT
+    The bank operates in a high-risk regulated environment. Employees increasingly use generative AI and AI-enabled features embedded in workplace tools such as document drafting, summarisation, and analytics. The bank wants to:
+    - Prevent data leakage and misuse of AI
+    - Clearly define what employees can and cannot do
+    - Comply with PDPA and Bank Negara Malaysia guidelines on technology risk
+    - Prefer approved, enterprise-controlled AI tools over public AI
+
+    FORMAT
+    Produce a complete policy document with numbered sections covering: Purpose, Scope, Approved AI Tools, Data Classification and Restrictions, Permitted and Prohibited Uses, Human Oversight Requirements, Incident Reporting, Training Requirements, and Governance. Under each section include specific, actionable rules. Use formal but accessible language suitable for all staff levels.
     ```
 
-1. Below the response, look for the **Edit in Pages** icon (a pencil or page icon) or an **Add to Page** button. Select it to create a new Copilot Page from this response.
+    ![Full policy prompt typed into the Copilot Chat message box, highlighted with a red border](../../assets/images/lab02_policy_prompt_wide.jpg)
 
-    ![Edit in Pages button](../../assets/images/lab02_edit_in_pages_wide.png)
+1. Wait for Copilot to generate the full policy. The response will be long — scroll through it to see how Copilot has structured the document into numbered sections.
 
-    > ***Note:** The exact label may vary depending on your tenant version. If you cannot find the button, look for a three-dot menu on the response or ask your trainer.*
+    > ***Note:** This is a significantly longer and more structured output than the research responses in Lab 01. The detailed prompt — which specifies a role, goal, context, and format — is what produces a draft that is immediately usable rather than a summary that still needs developing.*
 
 ---
 
-### Task 2: Add more content to the same page
+### Task 2: Open the draft in Copilot Pages
 
-1. Back in Copilot Chat, run the following prompt:
+1. Scroll to the bottom of Copilot's response. Below the last line of content, you will see a row of small action icons — copy, thumbs up, thumbs down, share, and a pencil-style icon.
 
-    ```
-    Research Malaysian policy considerations relevant to workplace AI use. Include PDPA, national AI guidance if available, employee data handling, and human oversight. Separate legal requirements from good-practice recommendations. Return as a table.
-    ```
+1. Select the **pencil/page icon**. A tooltip reading **Edit in Pages** will appear below it.
 
-1. When the response appears, select **Add to Page** to append it to the same page you created in Task 1.
+    ![Close-up of the Edit in Pages icon highlighted with a red box, showing the Edit in Pages tooltip](../../assets/images/lab02_edit_in_pages_button_wide.jpg)
 
-1. Run one more prompt and add it to the same page:
+    > ***Note:** If you cannot find the icon, look for a three-dot overflow menu on the response. The feature may be labelled "Open in Pages" or "Add to Page" depending on your tenant version.*
 
-    ```
-    List 3 examples of how Malaysian companies or banks have communicated AI usage rules to their staff. If specific examples are not available, describe what good communication looks like based on available guidance.
-    ```
+1. Copilot Pages will open in a split view alongside the chat panel. The left side shows the Copilot Chat panel, and the right side shows the Pages document with the policy content already loaded.
 
----
+    ![Split view with Copilot Chat on the left and the Pages document loaded on the right](../../assets/images/lab02_pages_split_view_wide.jpg)
 
-### Task 3: Organise and edit the page
-
-1. Open the Copilot Page. It should now contain three sections of research content.
-
-    ![New Copilot Page](../../assets/images/lab02_new_page_quick_create_wide.png)
-
-1. Add a title and header at the top:
-
-    **AI Usage Guideline — Research Brief**
-    *Prepared by: HR Department, Mayfield Bank Berhad*
-    *Date: [Today's date]*
-
-1. Rearrange the sections so they flow logically: Malaysian policy context first, then general best practices, then communication examples.
-
-1. Under each section, add a short note in your own words summarising the key takeaway for Mayfield Bank. These are your own analyst notes, not Copilot-generated content.
-
-1. Use the Copilot prompt box within the page to refine one section:
-
-    ```
-    Review this page for sections that are too vague for a Malaysian banking audience. Suggest targeted edits without rewriting the entire page.
-    ```
+1. Spend a moment looking around the Pages interface. Note the page title at the top, the document body below, and the small **Ask Copilot** inline button that appears when you select text or hover near a heading.
 
 ---
 
-### Task 4: Share the page
+### Task 3: Refine the document using inline Copilot
 
-1. Select **Share** in the top-right corner of the page.
+Pages lets you ask Copilot to edit specific parts of the document without leaving the page. In this task you will use two methods: inline editing directly on selected content, and the chat panel alongside the page.
 
-    ![Share Copilot Page](../../assets/images/lab02_share_page_wide.png)
+#### Rename the title
 
-1. Enter your trainer's email address (or a colleague's, as directed).
+1. Click on the title at the top of the document to select it.
 
-1. Set the permission to **Can edit**.
-
-1. Add a short message:
+1. An inline **Ask Copilot** box will appear. Type the following and press **Enter**:
 
     ```
-    Hi — please review this research brief and add any additional sources or policy points you think are relevant before we start drafting the guideline.
+    Rename this to: AI Use in Workplace Policy Draft
     ```
 
-1. Select **Send**.
+    ![Pages title selected with the inline Ask Copilot box open, ready to accept a rename instruction](../../assets/images/lab02_pages_title_edit_wide.jpg)
+
+1. Copilot will update the title on the page. The change appears immediately in the document.
+
+#### Add an overview section
+
+1. In the **left chat panel**, type the following and press **Enter**:
+
+    ```
+    Add an overview to the beginning of the document
+    ```
+
+    ![Chat panel showing the overview prompt typed and highlighted with a red box, send button highlighted](../../assets/images/lab02_pages_overview_prompt_wide.jpg)
+
+1. Copilot will generate a short executive overview and insert it at the start of the document. Watch the right panel — the content updates in real time as Copilot writes.
+
+1. Review the completed page. The document now opens with an Overview section that summarises the policy's purpose, key requirements, and risk approach in plain language before the numbered sections begin.
+
+    ![Completed split view with the chat panel on the left showing Copilot's notes and the full Pages document on the right](../../assets/images/lab02_pages_final_wide.jpg)
+
+    > ***Note:** Notice that Copilot also flagged a minor issue — a duplicate section heading. This is a good reminder that AI-generated content always needs a human review pass before it is finalised. Make a note of any issues you spot.*
+
+---
+
+### Task 4: Export the page to Word
+
+When you are happy with the page, you can export it to a Word document for further formatting and stakeholder review. Lab 03 picks up from exactly this point.
+
+1. In the top-right area of the Pages interface, select **Create** or look for the Word export option. The exact label may vary — look for an icon resembling a Word document or a button labelled **Open in Word**.
+
+1. A confirmation dialog will appear showing a Copilot icon and the message **Your draft is ready**. Select **Open Word** to open the document in a new browser tab.
+
+    ![Confirmation dialog showing "Your draft is ready" with the Open Word button highlighted in a red box](../../assets/images/lab02_open_word_wide.jpg)
+
+1. Confirm that the policy content has transferred correctly — check that sections, headings, and the Overview section are all present.
+
+    > ***Note:** You do not need to make any changes in Word right now. Lab 03 covers editing and polishing the document. For now, simply confirm the export worked and then return to this lab.*
 
 ---
 
@@ -118,38 +152,40 @@ In this lab, you learn how to:
 
 | Weak prompt | Better prompt | Why the better prompt works |
 | --- | --- | --- |
-| Add intro. | Add a short introduction to this page. Explain why Mayfield Bank HR needs an AI Usage Guideline, what risks it manages, and how employees should use the document. Keep it under 150 words. | Controls purpose, content, and length. |
-| Make table. | Convert the selected Do and Do Not section into a 3-column table: Rule, Banking example, Why it matters. Keep each example relevant to a Malaysian bank. | Names the selected content, table structure, and scenario context. |
-| Improve this. | Review this page as if you are an HR governance reviewer. Identify sections that are too vague, too strict, or missing practical banking examples. Suggest changes without rewriting the entire page. | Asks for targeted review instead of uncontrolled rewriting. |
+| Write a policy. | You are a senior enterprise policy analyst. Draft a clear, practical, enforceable AI Use in the Workplace Policy for a Malaysian bank. Include numbered sections for: Purpose, Scope, Approved Tools, Data Restrictions, Permitted and Prohibited Uses, Human Oversight, Incident Reporting, Training, and Governance. Use formal but accessible language. | Assigns a role, names the organisation type, lists every required section, and specifies the audience and tone. Copilot cannot guess these from a short prompt. |
+| Fix the title. | Rename this to: AI Use in Workplace Policy Draft | Tells Copilot exactly what the output should say rather than asking it to decide. |
+| Make it better at the start. | Add an overview to the beginning of the document that summarises the policy's purpose, the key rules all staff must follow, and how the risk-tier model works. Keep it under 200 words. | Names the three things the overview needs to cover and caps the length so the overview does not grow into a second introduction. |
 
 ---
 
 ### Extended practice
 
-- Convert one long policy section into a table, one into bullets, and one into a short FAQ. Compare which format is easiest for beginners.
-- Highlight a dense paragraph and ask Copilot to reduce it by 30 percent without changing the meaning.
-- Ask Copilot to add a glossary of key AI terms suitable for non-technical HR staff.
+- Ask Copilot to add a one-page executive summary version suitable for board submission.
+- Select the Permitted and Prohibited Uses section and ask Copilot to convert it into a two-column table: Permitted, Prohibited. Ask it to add a banking-specific example in each row.
+- Ask Copilot to review the page as an HR governance reviewer and flag any sections that are too vague for enforcement.
 
 ---
 
 ## Part B — Independent Exercise
 
-**Scenario:** You are a **Strategy and Planning Analyst at Mayfield Bank Berhad**. Your department head has asked you to compile a research brief on digital banking trends in Southeast Asia to inform the bank's 3-year digital transformation roadmap.
+**Scenario:** You are a **Relationship Manager at Mayfield Bank Berhad**. Before your meeting with the logistics company from Lab 01 Part B, you want to produce a clean, shareable one-page briefing in Copilot Pages that you can reference during the call and share with your team lead afterwards.
 
 Using what you practised in Part A, complete the following with minimal guidance:
 
-1. Use Copilot Chat (Web grounding) to research the top digital banking trends in Malaysia and Southeast Asia for 2025. Ask about which banks or fintechs are leading each trend.
+1. Open a new Copilot Chat session with Web grounding. Run a focused prompt asking Copilot to draft a one-page pre-meeting briefing for a Relationship Manager preparing to meet a mid-sized Malaysian logistics company. Include: current industry challenges, likely financing needs for a company with around RM 50 million in annual revenue, and 3 talking points referencing Mayfield Bank's SME financing solutions.
 
-1. Run a second prompt about how Malaysian banks are using AI in their operations — ask for 3 specific use cases.
+1. When the response appears, open it in Copilot Pages using the **Edit in Pages** button.
 
-1. Send both responses to a single Copilot Page.
+1. In Pages, use the inline Ask Copilot feature to update the document title to something appropriate for the meeting.
 
-1. Organise the page with a title, your own section headers, and a short analyst note under each section.
+1. Use the chat panel alongside Pages to ask Copilot to add a short **Key questions to ask** section at the end of the document.
 
-1. Share the page with your trainer with a brief message asking for their input before the strategy meeting next week.
+1. Review the final page and note one thing you would change manually that Copilot missed or got wrong.
+
+> ***Note:** Part B uses the same skill sequence as Part A — structured prompt in Chat, open in Pages, inline Copilot, chat panel edits — but in a client-facing sales context. If you get stuck, refer back to the tasks above for the specific steps.*
 
 ---
 
 ## Lab complete
 
-You have compiled research from multiple Copilot Chat sessions into a single organised, collaborative Copilot Page. In Lab 03 you will convert the research into a formal Word document and polish it for stakeholder review.
+You have used a structured prompt to generate a complete draft policy, moved it into Copilot Pages, refined the content using inline Copilot and the chat panel, and exported it to Word. In Lab 03 you will open that Word document and use Copilot in Word to polish, reformat, and finalise the guideline for stakeholder review.
