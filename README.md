@@ -18,9 +18,10 @@ Each lab has two parts: a **Guided Exercise** (full handholding) and an **Indepe
 | 03 | Draft and polish the guideline | Copilot in Word |
 | 04 | Request approval with Outlook | Copilot in Outlook |
 | 05 | Manage meetings with Teams | Copilot in Teams |
-| 06 | Collect feedback with Forms | Copilot in Forms |
-| 07 | Analyse feedback with Excel | Copilot in Excel |
-| 08 | Monitor with Work grounding and Scheduled Prompts | Copilot Chat (Work grounding) |
+| 06 | Present the guideline with PowerPoint | Copilot in PowerPoint |
+| 07 | Collect feedback with Forms | Copilot in Forms |
+| 08 | Analyse feedback with Excel | Copilot in Excel |
+| 09 | Monitor with Work grounding and Scheduled Prompts | Copilot Chat (Work grounding) |
 
 ---
 

@@ -21,6 +21,7 @@ Each lab has two parts: a **Guided Exercise** with full step-by-step instruction
 | [Lab 03](Instructions/Labs/Lab_03_Word.html) | Draft and polish the guideline | Copilot in Word |
 | [Lab 04](Instructions/Labs/Lab_04_Outlook.html) | Request approval with Outlook | Copilot in Outlook |
 | [Lab 05](Instructions/Labs/Lab_05_Teams.html) | Manage meetings with Teams | Copilot in Teams |
-| [Lab 06](Instructions/Labs/Lab_06_Forms.html) | Collect feedback with Forms | Copilot in Forms |
-| [Lab 07](Instructions/Labs/Lab_07_Excel.html) | Analyse feedback with Excel | Copilot in Excel |
-| [Lab 08](Instructions/Labs/Lab_08_Copilot_Chat_Work.html) | Monitor with Work grounding and Scheduled Prompts | Copilot Chat (Work grounding) |
+| [Lab 06](Instructions/Labs/Lab_06_PowerPoint.html) | Present the guideline with PowerPoint | Copilot in PowerPoint |
+| [Lab 07](Instructions/Labs/Lab_07_Forms.html) | Collect feedback with Forms | Copilot in Forms |
+| [Lab 08](Instructions/Labs/Lab_08_Excel.html) | Analyse feedback with Excel | Copilot in Excel |
+| [Lab 09](Instructions/Labs/Lab_09_Copilot_Chat_Work.html) | Monitor with Work grounding and Scheduled Prompts | Copilot Chat (Work grounding) |
