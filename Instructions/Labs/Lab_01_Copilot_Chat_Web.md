@@ -130,9 +130,13 @@ Copilot Chat includes a built-in agent called **Prompt Coach** that analyses you
 
 1. In the left sidebar, select **All agents** to open the Agent Store.
 
-    ![Copilot Agent Store showing available agents including Prompt Coach](../../assets/images/lab01_agent_store_wide.jpg)
+    ![Left sidebar with All agents highlighted](../../assets/images/lab01_agent_store_wide.jpg)
 
-1. Select the **Prompt Coach** tile. When the detail card appears, select **Open**.
+1. In the **Search agents** box at the top of the Agent Store, type `Prompt Coach`. Select **Prompt Coach** from the results that appear.
+
+    ![Agent Store search showing Prompt Coach result highlighted](../../assets/images/lab01_prompt_coach_search_wide.jpg)
+
+1. When the detail card appears, check whether the button says **Open** or **Add**. If it says **Add**, select it first to install Prompt Coach, then select **Open**.
 
     ![Prompt Coach detail card in the Agent Store with the Open button highlighted](../../assets/images/lab01_prompt_coach_open_wide.jpg)
 
