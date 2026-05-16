@@ -48,21 +48,41 @@ These labs use a simple prompt pattern. You do not need to use every element eve
 
 ## Part A — Guided Exercise
 
-### Task 1: Open Copilot Chat and identify grounding mode
+### Task 1: Open Copilot Chat and orient yourself
 
-1. Open a browser and go to [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat), or open the **Microsoft 365 Copilot** app from Microsoft 365.
+1. Open a browser and go to [https://m365.cloud.microsoft](https://m365.cloud.microsoft), or open the **Microsoft 365 Copilot** app from Microsoft 365.
 
-1. Sign in with your Mayfield Bank work or school account.
+1. Sign in with your work or school account.
 
-1. Look near the top of the Copilot Chat interface for the **Work** and **Web** toggle. Select **Web** — you are researching external information.
+1. In the left sidebar, select **New chat** to start a clean session.
 
-1. Look for the shield or protection indicator that confirms you are in the work-protected experience.
+    ![Copilot Chat interface showing the New chat button in the left sidebar](../../assets/images/lab01_chat_interface_wide.jpg)
 
-    ![Copilot Chat Web toggle](../../assets/images/lab01_copilot_web_toggle_wide.png)
+1. Near the top centre of the screen you will see two small icons side by side — a briefcase and a globe. The briefcase represents **Work** grounding (your organisation's internal data); the globe represents **Web** grounding (public internet sources). Select the **globe icon** to switch to Web.
 
-    ![Copilot protection badge](../../assets/images/lab01_copilot_protection_badge_wide.png)
+    ![Close-up of the grounding toggle with the Web globe icon highlighted](../../assets/images/lab01_web_toggle_close_wide.jpg)
 
-    > ***Note:** If the Work/Web toggle is not visible, check your licence and tenant settings with your trainer. Features may differ depending on whether you have Copilot Chat only or the full Microsoft 365 Copilot add-on licence.*
+    > ***Note:** If neither icon is visible, your licence or tenant settings may not support this feature. Check with your trainer before continuing. Features may differ depending on whether you have Copilot Chat only or the full Microsoft 365 Copilot add-on licence.*
+
+1. In the top-right corner, you will see a model selector labelled **Auto**. Leave this as is for now — Auto lets Copilot decide how much processing time a question needs based on its complexity. You can explore the other options (Quick Response, Think Deeper) later.
+
+    ![Model picker dropdown showing Auto, Quick Response, Think Deeper, Opus, and GPT](../../assets/images/lab01_model_picker_wide.jpg)
+
+1. Before running the main research prompt, try a quick question to confirm Web grounding is working and to see how citations appear. Click into the **Message Copilot** box and type:
+
+    ```
+    What is the weather like in Kuala Lumpur today?
+    ```
+
+    Press **Enter** and wait for the response.
+
+1. Look at the response. You will see small source tags — such as `msn` or `weather` — sitting inline with the text. Hover your mouse over one of these tags to see the full source name and the web address it came from.
+
+    ![Copilot response with inline citation tags, showing a hover preview of the source website](../../assets/images/lab01_citations_hover_wide.jpg)
+
+    > ***Note:** This is how every Web-grounded response works — Copilot draws from live web sources and cites them inline. Get into the habit of checking these before acting on the information, especially for research that will inform a policy or document.*
+
+You are now familiar with the interface. In the next task you will use these same controls to run the actual research for Mayfield Bank.
 
 ---
 

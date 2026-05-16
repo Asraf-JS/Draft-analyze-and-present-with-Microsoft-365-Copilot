@@ -1,6 +1,6 @@
 # Draft, Analyze, and Present with Microsoft 365 Copilot
 
-Hands-on lab exercises for **"Draft, Analyze, and Present with Microsoft 365 Copilot"**, delivered by Asraf-JS via Trainocate (M) Sdn Bhd and TED Learning Sdn Bhd.
+Hands-on lab exercises for **"Draft, Analyze, and Present with Microsoft 365 Copilot"**, created by Asraf-JS.
 
 All exercises use **Mayfield Bank Berhad** — a fictional Malaysian commercial bank. The labs follow a single connected scenario: an HR team building and rolling out an internal AI Usage Guideline from research to monitoring.
 
