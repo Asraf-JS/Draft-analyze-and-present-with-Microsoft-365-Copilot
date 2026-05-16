@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Collect feedback with Forms
   module: Collect feedback with Copilot in Forms
-  description: In this lab, you will use Copilot in Forms to create an employee feedback survey after the AI guideline briefing — then apply the same skills to a branch staff confidence survey.
+  description: In this lab, you will use Copilot in Forms to create an employee feedback survey after the AI guideline briefing, then apply the same skills to a branch staff confidence survey.
   duration: 30 minutes
   level: 100
   islab: true
@@ -14,7 +14,7 @@ lab:
     - Feedback collection
 ---
 
-# Lab 06 — Collect feedback with Forms
+# Lab 06: Collect feedback with Forms
 
 ## Scenario
 
@@ -31,7 +31,7 @@ In this lab, you learn how to:
 
 ---
 
-## Part A — Guided Exercise
+## Part A: Guided Exercise
 
 ### Task 1: Create the feedback form
 
@@ -46,7 +46,7 @@ In this lab, you learn how to:
 1. Give the form a title:
 
     ```
-    Mayfield Bank — AI Usage Guideline: Staff Feedback
+    Mayfield Bank, AI Usage Guideline: Staff Feedback
     ```
 
 ---
@@ -70,9 +70,9 @@ In this lab, you learn how to:
 ### Task 3: Review the questions
 
 1. Read through each question and check for:
-    - **Bias or leading language** — does the question push towards a particular answer?
-    - **Duplication** — are two questions asking essentially the same thing?
-    - **Clarity** — would a non-technical staff member understand this immediately?
+    - **Bias or leading language**, does the question push towards a particular answer?
+    - **Duplication**, are two questions asking essentially the same thing?
+    - **Clarity**, would a non-technical staff member understand this immediately?
 
 1. Use Copilot Chat to run a quality review:
 
@@ -117,7 +117,7 @@ In this lab, you learn how to:
 
 ---
 
-## Part B — Independent Exercise
+## Part B: Independent Exercise
 
 **Scenario:** You are the **Training Coordinator at Mayfield Bank Berhad**. Following a bank-wide AI awareness session for branch staff, you need to measure how confident they feel about using AI tools responsibly in their daily work.
 

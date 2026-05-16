@@ -13,7 +13,7 @@ lab:
     - Chart generation
 ---
 
-# Lab 05 — Analyse data and surface insights
+# Lab 05: Analyse data and surface insights
 
 ## Scenario
 
@@ -110,4 +110,4 @@ In this lab, you learn how to:
 
 ## Lab complete
 
-You have used Copilot in Excel to explore a branch performance dataset, generate charts, add a calculated column, and produce a leadership-ready summary — all without writing a single formula manually.
+You have used Copilot in Excel to explore a branch performance dataset, generate charts, add a calculated column, and produce a leadership-ready summary, all without writing a single formula manually.

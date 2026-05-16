@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Organise and share research findings
   module: Organise with Copilot Pages
-  description: In this lab, you will use Copilot Pages to compile research from multiple Copilot Chat responses into a structured, shareable page — in a Malaysian banking research context.
+  description: In this lab, you will use Copilot Pages to compile research from multiple Copilot Chat responses into a structured, shareable page, in a Malaysian banking research context.
   duration: 30 minutes
   level: 100
   islab: true
@@ -13,7 +13,7 @@ lab:
     - Collaboration and sharing
 ---
 
-# Lab 07 — Organise and share research findings
+# Lab 07: Organise and share research findings
 
 ## Scenario
 
@@ -78,7 +78,7 @@ In this lab, you learn how to:
 
 1. Add a heading at the top of the Page:
 
-    **Digital Banking in Southeast Asia — Research Brief**
+    **Digital Banking in Southeast Asia, Research Brief**
     *Prepared for: Mayfield Bank Berhad Strategy & Planning*
     *Date: [Today's date]*
 
@@ -97,7 +97,7 @@ In this lab, you learn how to:
 1. Add a short message:
 
     ```
-    Hi — please review this research brief and add any additional sources or insights you think are relevant for the roadmap discussion next week.
+    Hi, please review this research brief and add any additional sources or insights you think are relevant for the roadmap discussion next week.
     ```
 
 1. Select **Send**.
@@ -106,4 +106,4 @@ In this lab, you learn how to:
 
 ## Lab complete
 
-You have used Copilot Pages to compile research from multiple Copilot Chat sessions into a single organised, collaborative document — ready to share with your team without copying and pasting from multiple places.
+You have used Copilot Pages to compile research from multiple Copilot Chat sessions into a single organised, collaborative document, ready to share with your team without copying and pasting from multiple places.

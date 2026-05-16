@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Draft and organise with Copilot Pages
   module: Organise and collaborate with Copilot Pages
-  description: In this lab, you will use a structured prompt to generate a draft AI Usage Guideline in Copilot Chat, move it into Copilot Pages, refine it using inline Copilot, and prepare it for Word — then apply the same skills to a different Mayfield Bank scenario.
+  description: In this lab, you will use a structured prompt to generate a draft AI Usage Guideline in Copilot Chat, move it into Copilot Pages, refine it using inline Copilot, and prepare it for Word, then apply the same skills to a different Mayfield Bank scenario.
   duration: 45 minutes
   level: 100
   islab: true
@@ -14,7 +14,7 @@ lab:
     - Export to Word
 ---
 
-# Lab 02 — Draft and organise with Copilot Pages
+# Lab 02: Draft and organise with Copilot Pages
 
 ## Scenario
 
@@ -32,11 +32,11 @@ In this lab, you learn how to:
 
 ---
 
-## Part A — Guided Exercise
+## Part A: Guided Exercise
 
 ### Task 1: Generate the draft guideline in Copilot Chat
 
-In Lab 01, you used Prompt Coach to generate a structured, improved prompt. In this task you will run that prompt — adapted for Mayfield Bank — to produce a complete first draft of the AI Usage Guideline.
+In Lab 01, you used Prompt Coach to generate a structured, improved prompt. In this task you will run that prompt, adapted for Mayfield Bank, to produce a complete first draft of the AI Usage Guideline.
 
 1. Open Copilot Chat at [https://m365.cloud.microsoft/chat](https://m365.cloud.microsoft/chat) and start a **New chat**.
 
@@ -70,15 +70,15 @@ In Lab 01, you used Prompt Coach to generate a structured, improved prompt. In t
 
     ![Full policy prompt typed into the Copilot Chat message box, highlighted with a red border](../../assets/images/lab02_policy_prompt_wide.jpg)
 
-1. Wait for Copilot to generate the full policy. The response will be long — scroll through it to see how Copilot has structured the document into numbered sections.
+1. Wait for Copilot to generate the full policy. The response will be long, scroll through it to see how Copilot has structured the document into numbered sections.
 
-    > ***Note:** This is a significantly longer and more structured output than the research responses in Lab 01. The detailed prompt — which specifies a role, goal, context, and format — is what produces a draft that is immediately usable rather than a summary that still needs developing.*
+    > ***Note:** This is a significantly longer and more structured output than the research responses in Lab 01. The detailed prompt, which specifies a role, goal, context, and format, is what produces a draft that is immediately usable rather than a summary that still needs developing.*
 
 ---
 
 ### Task 2: Open the draft in Copilot Pages
 
-1. Scroll to the bottom of Copilot's response. Below the last line of content, you will see a row of small action icons — copy, thumbs up, thumbs down, share, and a pencil-style icon.
+1. Scroll to the bottom of Copilot's response. Below the last line of content, you will see a row of small action icons, copy, thumbs up, thumbs down, share, and a pencil-style icon.
 
 1. Select the **pencil/page icon**. A tooltip reading **Edit in Pages** will appear below it.
 
@@ -122,13 +122,13 @@ Pages lets you ask Copilot to edit specific parts of the document without leavin
 
     ![Chat panel showing the overview prompt typed and highlighted with a red box, send button highlighted](../../assets/images/lab02_pages_overview_prompt_wide.jpg)
 
-1. Copilot will generate a short executive overview and insert it at the start of the document. Watch the right panel — the content updates in real time as Copilot writes.
+1. Copilot will generate a short executive overview and insert it at the start of the document. Watch the right panel, the content updates in real time as Copilot writes.
 
 1. Review the completed page. The document now opens with an Overview section that summarises the policy's purpose, key requirements, and risk approach in plain language before the numbered sections begin.
 
     ![Completed split view with the chat panel on the left showing Copilot's notes and the full Pages document on the right](../../assets/images/lab02_pages_final_wide.jpg)
 
-    > ***Note:** Notice that Copilot also flagged a minor issue — a duplicate section heading. This is a good reminder that AI-generated content always needs a human review pass before it is finalised. Make a note of any issues you spot.*
+    > ***Note:** Notice that Copilot also flagged a minor issue, a duplicate section heading. This is a good reminder that AI-generated content always needs a human review pass before it is finalised. Make a note of any issues you spot.*
 
 ---
 
@@ -136,13 +136,13 @@ Pages lets you ask Copilot to edit specific parts of the document without leavin
 
 When you are happy with the page, you can export it to a Word document for further formatting and stakeholder review. Lab 03 picks up from exactly this point.
 
-1. In the top-right area of the Pages interface, select **Create** or look for the Word export option. The exact label may vary — look for an icon resembling a Word document or a button labelled **Open in Word**.
+1. In the top-right area of the Pages interface, select **Create** or look for the Word export option. The exact label may vary, look for an icon resembling a Word document or a button labelled **Open in Word**.
 
 1. A confirmation dialog will appear showing a Copilot icon and the message **Your draft is ready**. Select **Open Word** to open the document in a new browser tab.
 
     ![Confirmation dialog showing "Your draft is ready" with the Open Word button highlighted in a red box](../../assets/images/lab02_open_word_wide.jpg)
 
-1. Confirm that the policy content has transferred correctly — check that sections, headings, and the Overview section are all present.
+1. Confirm that the policy content has transferred correctly, check that sections, headings, and the Overview section are all present.
 
     > ***Note:** You do not need to make any changes in Word right now. Lab 03 covers editing and polishing the document. For now, simply confirm the export worked and then return to this lab.*
 
@@ -166,7 +166,7 @@ When you are happy with the page, you can export it to a Word document for furth
 
 ---
 
-## Part B — Independent Exercise
+## Part B: Independent Exercise
 
 **Scenario:** You are a **Relationship Manager at Mayfield Bank Berhad**. Before your meeting with the logistics company from Lab 01 Part B, you want to produce a clean, shareable one-page briefing in Copilot Pages that you can reference during the call and share with your team lead afterwards.
 
@@ -182,7 +182,7 @@ Using what you practised in Part A, complete the following with minimal guidance
 
 1. Review the final page and note one thing you would change manually that Copilot missed or got wrong.
 
-> ***Note:** Part B uses the same skill sequence as Part A — structured prompt in Chat, open in Pages, inline Copilot, chat panel edits — but in a client-facing sales context. If you get stuck, refer back to the tasks above for the specific steps.*
+> ***Note:** Part B uses the same skill sequence as Part A, structured prompt in Chat, open in Pages, inline Copilot, chat panel edits, but in a client-facing sales context. If you get stuck, refer back to the tasks above for the specific steps.*
 
 ---
 

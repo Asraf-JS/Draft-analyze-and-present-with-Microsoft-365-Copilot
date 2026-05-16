@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Manage meetings with Teams
   module: Collaborate with Copilot in Teams
-  description: In this lab, you will use Copilot in Teams to recap a stakeholder meeting about the HR guideline, extract action items, and draft a follow-up message — then apply the same skills to a project kick-off scenario.
+  description: In this lab, you will use Copilot in Teams to recap a stakeholder meeting about the HR guideline, extract action items, and draft a follow-up message, then apply the same skills to a project kick-off scenario.
   duration: 30 minutes
   level: 100
   islab: true
@@ -14,7 +14,7 @@ lab:
     - Follow-up drafting
 ---
 
-# Lab 05 — Manage meetings with Teams
+# Lab 05: Manage meetings with Teams
 
 ## Scenario
 
@@ -31,13 +31,13 @@ In this lab, you learn how to:
 
 ---
 
-## Part A — Guided Exercise
+## Part A: Guided Exercise
 
 ### Task 1: Access the meeting recap
 
 1. Open **Microsoft Teams** and go to your **Calendar**.
 
-1. Select the meeting named **AI Usage Guideline — Stakeholder Review** (your trainer will have set this up or will demonstrate using a sample meeting).
+1. Select the meeting named **AI Usage Guideline, Stakeholder Review** (your trainer will have set this up or will demonstrate using a sample meeting).
 
 1. Select the **Recap** tab inside the meeting detail view.
 
@@ -93,7 +93,7 @@ In this lab, you learn how to:
     Draft a follow-up message to all meeting participants. Include a brief summary of what was discussed, the key decisions made, the action items with owners, and the next review date. Keep it professional and under 200 words.
     ```
 
-1. Copy the draft and paste it into the relevant Teams channel or chat. Review it carefully before sending — adjust names, dates, or wording as needed.
+1. Copy the draft and paste it into the relevant Teams channel or chat. Review it carefully before sending, adjust names, dates, or wording as needed.
 
     > ***Note:** Always review Copilot-generated messages before sending. Copilot may phrase things in a way that does not match your team's communication style.*
 
@@ -117,13 +117,13 @@ In this lab, you learn how to:
 
 ---
 
-## Part B — Independent Exercise
+## Part B: Independent Exercise
 
 **Scenario:** You are an **Operations Manager at Mayfield Bank Berhad**. Your team just held a 45-minute project kick-off call for the bank's upcoming Core Banking System upgrade. You missed the last 10 minutes.
 
 Using what you practised in Part A, complete the following with minimal guidance:
 
-1. Open the recap for the **Core Banking Upgrade — Project Kick-off** meeting (your trainer will direct you to this).
+1. Open the recap for the **Core Banking Upgrade, Project Kick-off** meeting (your trainer will direct you to this).
 
 1. Ask Copilot what the main concerns were about the migration timeline.
 
@@ -135,4 +135,4 @@ Using what you practised in Part A, complete the following with minimal guidance
 
 ## Lab complete
 
-You have used Copilot in Teams to catch up on a meeting, extract decisions and action items, and produce a follow-up — all without rewatching the recording. In Lab 06 you will use Copilot in Forms to collect employee feedback on the guideline.
+You have used Copilot in Teams to catch up on a meeting, extract decisions and action items, and produce a follow-up, all without rewatching the recording. In Lab 06 you will use Copilot in Forms to collect employee feedback on the guideline.

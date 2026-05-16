@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Analyse feedback with Excel
   module: Analyse with Copilot in Excel
-  description: In this lab, you will use Copilot in Excel to summarise employee feedback, identify themes, create charts, and produce a management action list — then apply the same skills to a branch performance dataset.
+  description: In this lab, you will use Copilot in Excel to summarise employee feedback, identify themes, create charts, and produce a management action list, then apply the same skills to a branch performance dataset.
   duration: 45 minutes
   level: 100
   islab: true
@@ -15,7 +15,7 @@ lab:
     - Action planning
 ---
 
-# Lab 07 — Analyse feedback with Excel
+# Lab 07: Analyse feedback with Excel
 
 ## Scenario
 
@@ -33,7 +33,7 @@ In this lab, you learn how to:
 
 ---
 
-## Part A — Guided Exercise
+## Part A: Guided Exercise
 
 ### Task 1: Open the dataset and enable Copilot
 
@@ -124,7 +124,7 @@ In this lab, you learn how to:
 
 ---
 
-## Part B — Independent Exercise
+## Part B: Independent Exercise
 
 **Scenario:** You are a **Business Performance Analyst at Mayfield Bank Berhad's Retail Banking division**. Your regional head has asked you to review Q4 2024 performance data across 12 branches in the Klang Valley.
 
@@ -134,7 +134,7 @@ Using what you practised in Part A, complete the following with minimal guidance
 
 1. Ask whether there is any relationship between customer complaints and loan disbursement volume.
 
-1. Add a calculated column — Complaints per 100 Staff — using Copilot.
+1. Add a calculated column, Complaints per 100 Staff, using Copilot.
 
 1. Create a bar chart comparing loan disbursements across all branches, sorted from highest to lowest.
 

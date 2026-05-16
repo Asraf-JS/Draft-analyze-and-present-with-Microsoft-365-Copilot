@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Draft and polish the guideline
   module: Draft with Copilot in Word
-  description: In this lab, you will convert your Copilot Pages research into a Word document, draft the HR AI Usage Guideline, and polish it for executive review — then apply the same skills to a credit assessment report.
+  description: In this lab, you will convert your Copilot Pages research into a Word document, draft the HR AI Usage Guideline, and polish it for executive review, then apply the same skills to a credit assessment report.
   duration: 45 minutes
   level: 100
   islab: true
@@ -14,11 +14,11 @@ lab:
     - Executive summary
 ---
 
-# Lab 03 — Draft and polish the guideline
+# Lab 03: Draft and polish the guideline
 
 ## Scenario
 
-You are still the **HR Officer at Mayfield Bank Berhad**. Your research brief from Lab 02 has been reviewed and approved by your manager. Now you need to turn it into a formal **AI Usage Guideline** document — structured for both staff and executive audiences — using Copilot in Word.
+You are still the **HR Officer at Mayfield Bank Berhad**. Your research brief from Lab 02 has been reviewed and approved by your manager. Now you need to turn it into a formal **AI Usage Guideline** document, structured for both staff and executive audiences, using Copilot in Word.
 
 In this lab, you learn how to:
 
@@ -32,11 +32,11 @@ In this lab, you learn how to:
 
 ---
 
-## Part A — Guided Exercise
+## Part A: Guided Exercise
 
 ### Task 1: Convert the Copilot Page to Word
 
-1. Open the **AI Usage Guideline — Research Brief** page you created in Lab 02.
+1. Open the **AI Usage Guideline, Research Brief** page you created in Lab 02.
 
 1. In the upper-right area of the page, select **Create**, then select **Document**.
 
@@ -123,7 +123,7 @@ In this lab, you learn how to:
 
 ---
 
-## Part B — Independent Exercise
+## Part B: Independent Exercise
 
 **Scenario:** You are a **Credit Analyst in the Corporate Banking division at Mayfield Bank Berhad**. Your team has just completed a site visit to a manufacturing client in Johor Bahru who is applying for a RM 8 million term loan. You have rough notes from the visit.
 
@@ -137,7 +137,7 @@ Using what you practised in Part A, complete the following with minimal guidance
     - Revenue FY2023: RM 22 million, FY2024 projected: RM 28 million
     - EBITDA margin: approximately 14%
     - Existing facilities: RM 3 million overdraft with Mayfield Bank, clean track record
-    - Key risk: Customer concentration — top 3 customers account for 68% of revenue
+    - Key risk: Customer concentration, top 3 customers account for 68% of revenue
     - Collateral: Factory land and building in Pasir Gudang, valued at RM 6.5 million
     - Sections required: Client Background, Financial Overview, Loan Details, Risk Assessment, Recommendation
 
@@ -149,4 +149,4 @@ Using what you practised in Part A, complete the following with minimal guidance
 
 ## Lab complete
 
-You have drafted and polished a formal Word document using Copilot — starting from a Copilot Page and ending with an executive-ready guideline. In Lab 04 you will use Copilot in Outlook to request stakeholder approval.
+You have drafted and polished a formal Word document using Copilot, starting from a Copilot Page and ending with an executive-ready guideline. In Lab 04 you will use Copilot in Outlook to request stakeholder approval.

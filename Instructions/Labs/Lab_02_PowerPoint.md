@@ -13,7 +13,7 @@ lab:
     - Slide refinement
 ---
 
-# Lab 02 — Build a client presentation from scratch
+# Lab 02: Build a client presentation from scratch
 
 ## Scenario
 
@@ -74,7 +74,7 @@ In this lab, you learn how to:
 1. In the Copilot panel, type:
 
     ```
-    Change the theme to something that looks clean and corporate — suitable for a Malaysian bank presentation.
+    Change the theme to something that looks clean and corporate, suitable for a Malaysian bank presentation.
     ```
 
 1. Then type:
@@ -92,7 +92,7 @@ In this lab, you learn how to:
 1. In the Copilot panel, type:
 
     ```
-    Add a closing slide that thanks the audience and includes a call to action — invite clients to book a one-on-one consultation with their Wealth Advisor at Mayfield Bank.
+    Add a closing slide that thanks the audience and includes a call to action, invite clients to book a one-on-one consultation with their Wealth Advisor at Mayfield Bank.
     ```
 
 1. Review the slide and adjust the wording if needed by typing a follow-up prompt directly in the panel.
@@ -101,4 +101,4 @@ In this lab, you learn how to:
 
 ## Lab complete
 
-You have created a client-ready presentation from a Word document, refined the content and tone, and added speaker notes — all using natural language prompts in Copilot.
+You have created a client-ready presentation from a Word document, refined the content and tone, and added speaker notes, all using natural language prompts in Copilot.

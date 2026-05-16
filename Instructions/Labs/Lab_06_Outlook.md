@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Handle client communications efficiently
   module: Communicate with Copilot in Outlook
-  description: In this lab, you will use Copilot in Outlook to summarise email threads, draft professional replies, and coach your writing — all in a Malaysian banking context.
+  description: In this lab, you will use Copilot in Outlook to summarise email threads, draft professional replies, and coach your writing, all in a Malaysian banking context.
   duration: 30 minutes
   level: 100
   islab: true
@@ -14,11 +14,11 @@ lab:
     - Coaching suggestions
 ---
 
-# Lab 06 — Handle client communications efficiently
+# Lab 06: Handle client communications efficiently
 
 ## Scenario
 
-You are a **Retail Banking Officer** at Mayfield Bank Berhad's Bangsar branch. It is Tuesday morning and your inbox has 23 unread emails from yesterday. Three of them are from a high-value client — Puan Roslinda — who is unhappy about a delay in her fixed deposit renewal. You also need to reply to an internal request from the compliance team and draft a product introduction email to a new SME client.
+You are a **Retail Banking Officer** at Mayfield Bank Berhad's Bangsar branch. It is Tuesday morning and your inbox has 23 unread emails from yesterday. Three of them are from a high-value client, Puan Roslinda, who is unhappy about a delay in her fixed deposit renewal. You also need to reply to an internal request from the compliance team and draft a product introduction email to a new SME client.
 
 In this lab, you learn how to:
 
@@ -35,7 +35,7 @@ In this lab, you learn how to:
 
 1. Open **Outlook** (desktop app or web at [https://outlook.office.com](https://outlook.office.com)).
 
-1. Open the email thread from **Puan Roslinda binti Ahmad** with the subject line **"RE: Fixed Deposit Renewal — Urgent"**.
+1. Open the email thread from **Puan Roslinda binti Ahmad** with the subject line **"RE: Fixed Deposit Renewal, Urgent"**.
 
     > ***Note:** Your trainer will have set up sample emails in your training mailbox. If you do not see this thread, ask your trainer for assistance.*
 
@@ -56,7 +56,7 @@ In this lab, you learn how to:
 1. Type the following prompt:
 
     ```
-    Draft a professional and empathetic reply to a client who is frustrated about a delay in her fixed deposit renewal. Acknowledge the inconvenience, assure her the matter is being prioritised, and let her know a relationship manager will contact her within one business day. Sign off as "Mayfield Bank Berhad — Bangsar Branch".
+    Draft a professional and empathetic reply to a client who is frustrated about a delay in her fixed deposit renewal. Acknowledge the inconvenience, assure her the matter is being prioritised, and let her know a relationship manager will contact her within one business day. Sign off as "Mayfield Bank Berhad, Bangsar Branch".
     ```
 
 1. Review the draft. Do not send it yet.
@@ -84,7 +84,7 @@ In this lab, you learn how to:
 1. Type the following prompt:
 
     ```
-    Draft an introduction email to a new SME client — the owner of a halal food manufacturing company in Selangor. Introduce Mayfield Bank's SME Business Financing package. Highlight flexible repayment terms and our dedicated SME Relationship Manager service. Keep it warm, professional, and under 150 words. Include a call to action inviting them to schedule a consultation.
+    Draft an introduction email to a new SME client, the owner of a halal food manufacturing company in Selangor. Introduce Mayfield Bank's SME Business Financing package. Highlight flexible repayment terms and our dedicated SME Relationship Manager service. Keep it warm, professional, and under 150 words. Include a call to action inviting them to schedule a consultation.
     ```
 
 1. Review the draft and refine it with a follow-up prompt if needed:

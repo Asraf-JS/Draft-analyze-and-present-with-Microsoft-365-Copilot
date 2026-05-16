@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Request approval with Outlook
   module: Communicate with Copilot in Outlook
-  description: In this lab, you will use Copilot in Outlook to draft a stakeholder approval email, summarise a reply thread, and refine your communication — then apply the same skills to a client complaint scenario.
+  description: In this lab, you will use Copilot in Outlook to draft a stakeholder approval email, summarise a reply thread, and refine your communication, then apply the same skills to a client complaint scenario.
   duration: 45 minutes
   level: 100
   islab: true
@@ -14,11 +14,11 @@ lab:
     - Coaching by Copilot
 ---
 
-# Lab 04 — Request approval with Outlook
+# Lab 04: Request approval with Outlook
 
 ## Scenario
 
-You are still the **HR Officer at Mayfield Bank Berhad**. The AI Usage Guideline is ready for stakeholder review. You need to send an approval request to HR leadership, then manage the replies that come back — summarising the thread and drafting a follow-up response to a concern raised.
+You are still the **HR Officer at Mayfield Bank Berhad**. The AI Usage Guideline is ready for stakeholder review. You need to send an approval request to HR leadership, then manage the replies that come back, summarising the thread and drafting a follow-up response to a concern raised.
 
 In this lab, you learn how to:
 
@@ -31,7 +31,7 @@ In this lab, you learn how to:
 
 ---
 
-## Part A — Guided Exercise
+## Part A: Guided Exercise
 
 ### Task 1: Draft the approval email
 
@@ -51,7 +51,7 @@ In this lab, you learn how to:
 
 1. Review the draft. Do not send it yet.
 
-    > ***Note:** Approval emails need precision. Make sure the decision required and deadline are visible early in the email — not buried at the end.*
+    > ***Note:** Approval emails need precision. Make sure the decision required and deadline are visible early in the email, not buried at the end.*
 
 ---
 
@@ -73,7 +73,7 @@ In this lab, you learn how to:
 
 ### Task 3: Summarise a reply thread
 
-1. Open the email thread **RE: AI Usage Guideline — Approval Request** in your training mailbox (your trainer will have set this up).
+1. Open the email thread **RE: AI Usage Guideline, Approval Request** in your training mailbox (your trainer will have set this up).
 
 1. At the top of the thread, select **Summary by Copilot**.
 
@@ -83,7 +83,7 @@ In this lab, you learn how to:
     Summarise this approval thread. Separate confirmed decisions, objections, requested edits, owners, and follow-up actions. Include names only if they are already visible in the thread.
     ```
 
-1. Identify the key concern raised by one stakeholder — a question about whether the guideline covers sensitive employee data adequately.
+1. Identify the key concern raised by one stakeholder, a question about whether the guideline covers sensitive employee data adequately.
 
 ---
 
@@ -120,7 +120,7 @@ In this lab, you learn how to:
 
 ---
 
-## Part B — Independent Exercise
+## Part B: Independent Exercise
 
 **Scenario:** You are a **Retail Banking Officer at Mayfield Bank Berhad's Bangsar branch**. You have two email tasks this morning.
 
@@ -128,7 +128,7 @@ Using what you practised in Part A, complete the following with minimal guidance
 
 1. Open the email thread from **Puan Roslinda binti Ahmad** about a delayed fixed deposit renewal (your trainer will point you to this thread). Use **Summary by Copilot** to get up to speed, then draft an empathetic professional reply. Acknowledge the delay, assure her the matter is being prioritised, and let her know a Relationship Manager will contact her within one business day.
 
-1. Draft a new outreach email to a new SME client — the owner of a halal food manufacturing company in Selangor. Introduce Mayfield Bank's SME Business Financing package. Highlight flexible repayment terms and the bank's dedicated SME Relationship Manager service. Keep it warm, professional, and under 150 words. Include a call to action to schedule a consultation.
+1. Draft a new outreach email to a new SME client, the owner of a halal food manufacturing company in Selangor. Introduce Mayfield Bank's SME Business Financing package. Highlight flexible repayment terms and the bank's dedicated SME Relationship Manager service. Keep it warm, professional, and under 150 words. Include a call to action to schedule a consultation.
 
 ---
 

@@ -5,13 +5,13 @@ lab:
   module: Set up your environment
 ---
 
-# Lab 00 — Set up your environment
+# Lab 00: Set up your environment
 
 Complete these steps before Lab 01. If you are using a hosted lab environment, this may already be done for you.
 
 ## Workshop scenario
 
-Throughout these labs you will work as a member of the **HR department at Mayfield Bank Berhad**, a mid-sized Malaysian commercial bank headquartered in Kuala Lumpur. Your team is preparing an internal **AI Usage Guideline** — a policy document that explains how staff should and should not use Microsoft 365 Copilot at work.
+Throughout these labs you will work as a member of the **HR department at Mayfield Bank Berhad**, a mid-sized Malaysian commercial bank headquartered in Kuala Lumpur. Your team is preparing an internal **AI Usage Guideline**, a policy document that explains how staff should and should not use Microsoft 365 Copilot at work.
 
 The same scenario runs across all 8 labs, taking the guideline from research all the way through to monitoring. Each lab also includes an **Independent Exercise** with a separate Mayfield Bank context so you can practice applying the same skills to a different task.
 

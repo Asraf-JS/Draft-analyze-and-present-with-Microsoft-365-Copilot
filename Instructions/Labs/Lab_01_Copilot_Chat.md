@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Ace your day with Copilot Chat
   module: Get started with Microsoft 365 Copilot Chat
-  description: In this lab, you will use Microsoft 365 Copilot Chat to quickly research information, summarise content, and draft outputs grounded in both web and work data — all within a realistic Malaysian banking context.
+  description: In this lab, you will use Microsoft 365 Copilot Chat to quickly research information, summarise content, and draft outputs grounded in both web and work data, all within a realistic Malaysian banking context.
   duration: 30 minutes
   level: 100
   islab: true
@@ -13,11 +13,11 @@ lab:
     - Work-grounded vs web-grounded responses
 ---
 
-# Lab 01 — Ace your day with Copilot Chat
+# Lab 01: Ace your day with Copilot Chat
 
 ## Scenario
 
-You are a **Relationship Manager** at Mayfield Bank Berhad's Corporate Banking division. It is Monday morning. You have a meeting with a new prospect — a mid-sized logistics company based in Shah Alam — later today. You want to walk in prepared.
+You are a **Relationship Manager** at Mayfield Bank Berhad's Corporate Banking division. It is Monday morning. You have a meeting with a new prospect, a mid-sized logistics company based in Shah Alam, later today. You want to walk in prepared.
 
 In this lab, you learn how to:
 
@@ -41,7 +41,7 @@ You want to understand the current state of the logistics sector in Malaysia bef
 1. Type the following prompt and press **Enter**:
 
     ```
-    Give me a brief overview of the logistics industry in Malaysia in 2024 — key trends, challenges, and growth areas. Keep it to 3 short paragraphs.
+    Give me a brief overview of the logistics industry in Malaysia in 2024, key trends, challenges, and growth areas. Keep it to 3 short paragraphs.
     ```
 
 1. Read the response. Notice that Copilot cites sources at the bottom of its reply.
@@ -82,7 +82,7 @@ Now you want to check whether Mayfield Bank already has any notes or proposals r
     Do I have any emails or documents related to Shah Alam logistics companies?
     ```
 
-    > ***Note:** If no results appear, that is expected — this is a training environment. In a real scenario, Copilot would search across your Outlook, Teams messages, and SharePoint files.*
+    > ***Note:** If no results appear, that is expected, this is a training environment. In a real scenario, Copilot would search across your Outlook, Teams messages, and SharePoint files.*
 
 ---
 

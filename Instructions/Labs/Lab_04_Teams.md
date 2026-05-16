@@ -3,7 +3,7 @@ layout: page
 lab:
   title: Manage meetings and collaboration
   module: Collaborate with Copilot in Teams
-  description: In this lab, you will use Copilot in Microsoft Teams to summarise a meeting recording, extract action items, and generate a follow-up message — all in a Malaysian banking context.
+  description: In this lab, you will use Copilot in Microsoft Teams to summarise a meeting recording, extract action items, and generate a follow-up message, all in a Malaysian banking context.
   duration: 30 minutes
   level: 100
   islab: true
@@ -13,11 +13,11 @@ lab:
     - Action item extraction
 ---
 
-# Lab 04 — Manage meetings and collaboration
+# Lab 04: Manage meetings and collaboration
 
 ## Scenario
 
-You are an **Operations Manager** at Mayfield Bank Berhad. Your team just wrapped up a 45-minute project kick-off call about the bank's upcoming **Core Banking System upgrade**. The meeting was recorded and transcribed in Teams. You missed the last 10 minutes. You need a summary, the action items, and a follow-up message to send to the team — without rewatching the whole recording.
+You are an **Operations Manager** at Mayfield Bank Berhad. Your team just wrapped up a 45-minute project kick-off call about the bank's upcoming **Core Banking System upgrade**. The meeting was recorded and transcribed in Teams. You missed the last 10 minutes. You need a summary, the action items, and a follow-up message to send to the team, without rewatching the whole recording.
 
 In this lab, you learn how to:
 
@@ -34,7 +34,7 @@ In this lab, you learn how to:
 
 1. Open **Microsoft Teams** and go to your **Calendar**.
 
-1. Select the meeting named **Core Banking Upgrade — Project Kick-off** from your calendar.
+1. Select the meeting named **Core Banking Upgrade, Project Kick-off** from your calendar.
 
     > ***Note:** In this training environment, your trainer will have shared a sample meeting or channel for this exercise. If no meeting is available, your trainer will demonstrate this task live.*
 
@@ -92,7 +92,7 @@ In this lab, you learn how to:
 
 1. Copy the draft.
 
-1. Go to the **Teams chat** or **channel** for the project and paste the message. Review it before sending — adjust any names, dates, or details as needed.
+1. Go to the **Teams chat** or **channel** for the project and paste the message. Review it before sending, adjust any names, dates, or details as needed.
 
     > ***Note:** Always review Copilot-generated messages before sending them. Copilot may occasionally miss a detail or phrase something in a way that does not match your team's communication style.*
 
@@ -100,4 +100,4 @@ In this lab, you learn how to:
 
 ## Lab complete
 
-You have used Copilot in Teams to get up to speed on a meeting you partially missed, extract action items, and produce a follow-up message — all without rewatching the recording.
+You have used Copilot in Teams to get up to speed on a meeting you partially missed, extract action items, and produce a follow-up message, all without rewatching the recording.
