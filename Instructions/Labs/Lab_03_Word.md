@@ -32,6 +32,18 @@ In this lab, you learn how to:
 
 ---
 
+## Before you begin
+
+This lab opens the AI Usage Guideline document that you exported to Word at the end of Lab 02. If you completed Labs 01 and 02, your document is already in Word and ready to go — skip straight to Part A.
+
+If you are starting from this lab without completing the earlier labs, download the starter file below and save it to your **OneDrive > Documents** folder before continuing.
+
+[Download Lab_03_AI_Usage_Guideline.docx](../../Allfiles/Lab_03_AI_Usage_Guideline.docx)
+
+Once the file is saved to OneDrive, open it in **Microsoft Word for the web** (via OneDrive or word.new) and then continue with Part A.
+
+---
+
 ## Part A: Guided Exercise
 
 ### Task 1: Open the document and review the summary
