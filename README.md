@@ -2,7 +2,7 @@
 
 Hands-on lab exercises for **"Draft, Analyze, and Present with Microsoft 365 Copilot"**, created by Asraf-JS.
 
-All exercises use **Mayfield Bank Berhad** — a fictional Malaysian commercial bank. The labs follow a single connected scenario: an HR team building and rolling out an internal AI Usage Guideline from research to monitoring.
+All exercises use **Mayfield Bank Berhad**, a fictional Malaysian commercial bank. The labs follow a single connected scenario: an HR team building and rolling out an internal AI Usage Guideline from research to monitoring.
 
 Each lab has two parts: a **Guided Exercise** (full handholding) and an **Independent Exercise** (lighter steps, different Mayfield Bank context).
 
@@ -12,7 +12,7 @@ Each lab has two parts: a **Guided Exercise** (full handholding) and an **Indepe
 
 | # | Lab | App |
 |---|-----|-----|
-| 00 | Set up your environment | — |
+| 00 | Set up your environment | |
 | 01 | Research with Copilot Chat | Copilot Chat (Web grounding) |
 | 02 | Organise research with Copilot Pages | Copilot Pages |
 | 03 | Draft and polish the guideline | Copilot in Word |

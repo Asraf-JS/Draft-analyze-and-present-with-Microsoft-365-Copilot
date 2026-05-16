@@ -5,7 +5,7 @@ title: "Draft, Analyze, and Present with Microsoft 365 Copilot"
 
 # Draft, Analyze, and Present with Microsoft 365 Copilot
 
-These hands-on labs use **Mayfield Bank Berhad** — a fictional Malaysian commercial bank — as the scenario throughout. Each lab follows a connected story: an HR team at Mayfield Bank building and rolling out an AI Usage Guideline from research all the way through to monitoring.
+These hands-on labs use **Mayfield Bank Berhad**, a fictional Malaysian commercial bank, as the scenario throughout. Each lab follows a connected story: an HR team at Mayfield Bank building and rolling out an AI Usage Guideline from research all the way through to monitoring.
 
 Each lab has two parts: a **Guided Exercise** with full step-by-step instructions, and an **Independent Exercise** with a lighter scenario for you to apply what you have learned on your own.
 
@@ -15,7 +15,7 @@ Each lab has two parts: a **Guided Exercise** with full step-by-step instruction
 
 | Lab | Title | App |
 | --- | ----- | --- |
-| [Lab 00](Instructions/Labs/Lab_00_Setup.html) | Set up your environment | — |
+| [Lab 00](Instructions/Labs/Lab_00_Setup.html) | Set up your environment | |
 | [Lab 01](Instructions/Labs/Lab_01_Copilot_Chat_Web.html) | Research with Copilot Chat | Copilot Chat (Web grounding) |
 | [Lab 02](Instructions/Labs/Lab_02_Copilot_Pages.html) | Organise research with Copilot Pages | Copilot Pages |
 | [Lab 03](Instructions/Labs/Lab_03_Word.html) | Draft and polish the guideline | Copilot in Word |

@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 **Which lab is affected?**
-e.g. Lab 03 — Word
+e.g. Lab 03: Word
 
 **Which task and step number?**
 e.g. Task 2, Step 3
