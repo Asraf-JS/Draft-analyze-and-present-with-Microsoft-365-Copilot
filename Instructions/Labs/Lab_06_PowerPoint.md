@@ -87,45 +87,69 @@ If you skipped Lab 03 or do not have the file in OneDrive, follow these steps be
     Create a presentation about.
     ```
 
-1. Before submitting, select the **+** icon to the left of the prompt field to attach a reference file.
+1. Select the **+** icon to the left of the prompt field. A tooltip will appear showing **Add work content** and a file search box will open.
 
-1. In the file search box that appears, type:
+    ![Copilot prompt field with the plus icon highlighted and Add work content tooltip visible](../../assets/images/lab06_pptx_plus_button_wide.jpg)
+
+1. In the file search box, type:
 
     ```
     AI use
     ```
 
-1. Select the **AI Usage Guideline** document from the results. It will be attached to your prompt as a source.
+    Your AI Usage Guideline document will appear in the results.
 
-1. Select the send button to submit the prompt. Copilot will begin processing and you will see its reasoning appear in the chat window as it reads the document.
+    ![File search results showing AI Use in Workplace Policy Dra as the top result](../../assets/images/lab06_pptx_file_search_wide.jpg)
 
-1. Copilot may ask you clarifying questions before generating the slides. Read each question carefully and answer it. When you have responded, select **Confirm** to let Copilot proceed.
+1. Select **AI Use in Workplace Policy Dra** from the results. It will be highlighted with a box and attached to your prompt.
 
-    > ***Note:** Copilot's questions help it understand the audience, tone, and structure you want. Answering them accurately produces a more relevant deck.*
+    ![File search result with AI Use in Workplace Policy Dra highlighted with a red box](../../assets/images/lab06_pptx_file_selected_wide.jpg)
 
-1. Copilot will next ask you to choose a **visual direction** or template style. Review the options presented and select one that suits a professional internal presentation.
+1. The prompt field now shows **Create a presentation about AI Use in Workplace Policy Dra.docx**. Select the send button (the red arrow) to submit.
 
-1. Select **Clean Corporate Blue and White** (or the closest available option in your environment) and confirm your selection.
+    ![Prompt field showing the attached file name with a red arrow pointing to the send button](../../assets/images/lab06_pptx_prompt_send_wide.jpg)
 
-1. Copilot will generate the slides. This can take a few minutes. You will see a progress indicator as it works.
+1. Copilot will start processing. You will see a **Thinking it through** panel appear in the chat area as it reads through the document.
+
+    ![Copilot panel showing Thinking it through with Understanding what you are looking for message, boxed in red](../../assets/images/lab06_pptx_thinking_wide.jpg)
+
+1. Once Copilot has read the document, it will ask: **What's the primary audience for this presentation?** Select **All employees** — this is a staff-wide briefing on the AI Usage Guideline.
+
+    ![Copilot Q&A panel asking for the primary audience with options including All employees, Leadership, IT compliance team, and Managers](../../assets/images/lab06_pptx_audience_qa_wide.jpg)
+
+1. Copilot will ask a second question: **How detailed should the presentation be?** Select **Executive summary (~5-6 slides)** for a concise staff briefing, then select **Confirm**.
+
+    ![Copilot Q&A asking how detailed the presentation should be, with Executive summary selected and the Confirm button highlighted](../../assets/images/lab06_pptx_detail_qa_wide.jpg)
+
+1. Copilot will now ask: **What visual direction fits this AI workplace policy presentation?** Select the **Creative** tab to see creative style options, then choose **Clean Corporate Blue & White**.
+
+    ![Visual direction question showing Creative tab selected and Clean Corporate Blue and White as the first style option](../../assets/images/lab06_pptx_visual_direction_wide.jpg)
+
+1. Copilot will begin generating the slides. The panel will show **Thinking it through** again while it builds the deck. This can take a few minutes.
+
+    ![PowerPoint editor showing the Copilot panel in Thinking it through state while generating slides](../../assets/images/lab06_pptx_generating_wide.jpg)
 
     > ***Tip:** This is a good time to check your email or take a short break. Do not close the tab while Copilot is generating.*
 
-1. Once complete, scroll through the slide panel on the left to review the generated deck. Check that the key sections from the guideline — such as permitted uses, prohibited uses, and key rules — are represented.
+1. Once complete, the slide panel on the left will show the full deck. Select each slide to review the content. Check that key sections from the guideline are covered.
+
+    ![Generated presentation showing slide 2 Introduction with two-column layout and Copilot explaining what it created](../../assets/images/lab06_pptx_generated_wide.jpg)
 
 ---
 
 ### Task 4: Refine slides, add speaker notes, and generate an image
 
-With the deck generated, you will now use Copilot to refine specific slides, add speaker notes, and create an image for the presentation.
+With the deck generated, you will use Copilot to add a slide, add speaker notes, and generate an AI image.
 
 **Add an introduction slide**
 
-1. In the Copilot panel, type the following and press send:
+1. In the Copilot panel prompt field, type the following and press send:
 
     ```
     Add a slide for introduction.
     ```
+
+    ![Copilot prompt field with Add a slide for introduction typed and the send button highlighted](../../assets/images/lab06_pptx_add_slide_wide.jpg)
 
 1. Once Copilot adds the slide, select **slide 2** in the slide panel on the left to view it and confirm the content is appropriate.
 
@@ -134,10 +158,14 @@ With the deck generated, you will now use Copilot to refine specific slides, add
 1. In the Copilot panel, type the following and press send:
 
     ```
-    Add speaker notes to slide number 2.
+    Add speaker notes to Slide no 2.
     ```
 
-1. Select the **Notes** section at the bottom of the screen to view the speaker notes Copilot has added to slide 2. Read through them to confirm they support the slide content.
+    ![Copilot prompt field showing Add speaker notes to Slide no 2 with red arrow pointing to the send button](../../assets/images/lab06_pptx_speaker_notes_prompt_wide.jpg)
+
+1. To view the speaker notes, select **Notes** at the bottom of the screen. The notes Copilot added to slide 2 will appear below the slide.
+
+    ![Bottom of the PowerPoint editor showing the Notes button highlighted with a red box and arrow](../../assets/images/lab06_pptx_notes_button_wide.jpg)
 
 **Generate an AI image**
 
@@ -147,11 +175,17 @@ With the deck generated, you will now use Copilot to refine specific slides, add
     Create an image of a robot lawyer holding a book.
     ```
 
-1. Copilot may ask for additional details or confirmation before generating the image. Answer any follow-up questions and confirm.
+    ![Copilot prompt field with the image prompt typed and the send button visible](../../assets/images/lab06_pptx_image_prompt_wide.jpg)
 
-1. Once the image is generated, check the slide where it has been placed to confirm it looks as expected.
+1. Copilot will generate the image and then ask where to place it. It will suggest options such as adding it to the title slide or the introduction slide. Select the option that works best, or type your own instruction such as:
 
-    > ***Note:** AI-generated images are creative interpretations. If the result does not suit the presentation, ask Copilot to try a different description or generate an alternative version.*
+    ```
+    place it in slide 1
+    ```
+
+    ![Copilot showing the generated image placement options with Add it to the title slide highlighted in red, and the follow-up prompt place it in slide 1 typed below](../../assets/images/lab06_pptx_image_placement_wide.jpg)
+
+    > ***Note:** AI-generated images are creative interpretations. If the result does not suit the presentation, ask Copilot to regenerate with a different description.*
 
 **Final review**
 
