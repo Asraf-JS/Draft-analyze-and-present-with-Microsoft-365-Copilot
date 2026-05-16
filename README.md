@@ -14,7 +14,7 @@ Each lab has two parts: a **Guided Exercise** (full handholding) and an **Indepe
 |---|-----|-----|
 | 00 | Set up your environment | |
 | 01 | Research with Copilot Chat | Copilot Chat (Web grounding) |
-| 02 | Organise research with Copilot Pages | Copilot Pages |
+| 02 | Draft and organise with Copilot Pages | Copilot Pages |
 | 03 | Draft and polish the guideline | Copilot in Word |
 | 04 | Request approval with Outlook | Copilot in Outlook |
 | 05 | Manage meetings with Teams | Copilot in Teams |

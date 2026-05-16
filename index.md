@@ -17,7 +17,7 @@ Each lab has two parts: a **Guided Exercise** with full step-by-step instruction
 | --- | ----- | --- |
 | [Lab 00](Instructions/Labs/Lab_00_Setup.html) | Set up your environment | |
 | [Lab 01](Instructions/Labs/Lab_01_Copilot_Chat_Web.html) | Research with Copilot Chat | Copilot Chat (Web grounding) |
-| [Lab 02](Instructions/Labs/Lab_02_Copilot_Pages.html) | Organise research with Copilot Pages | Copilot Pages |
+| [Lab 02](Instructions/Labs/Lab_02_Copilot_Pages.html) | Draft and organise with Copilot Pages | Copilot Pages |
 | [Lab 03](Instructions/Labs/Lab_03_Word.html) | Draft and polish the guideline | Copilot in Word |
 | [Lab 04](Instructions/Labs/Lab_04_Outlook.html) | Request approval with Outlook | Copilot in Outlook |
 | [Lab 05](Instructions/Labs/Lab_05_Teams.html) | Manage meetings with Teams | Copilot in Teams |
